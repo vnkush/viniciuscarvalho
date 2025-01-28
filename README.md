@@ -10,15 +10,10 @@
 ### 🧐 Sobre mim:
 
 • Redes e Infraestrutura
-
  • Responsabilidades principais:
- 
    • Gerenciamento de core e backbone, incluindo configuração de BGP e ferramentas de mitigação de DDoS.
-   
    • Configuração e manutenção de roteadores de borda e BNG das marcas Nokia, Juniper e Huawei.
-   
    • Configuração e ajustes de switches avançados, como:
-   
     - Huawei: S6720, S6730
     - Datacom: DM2104, DM4370
     - Cisco: ME3600X
