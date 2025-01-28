@@ -11,12 +11,12 @@
 
 • Redes e Infraestrutura
  • Responsabilidades principais:
-   • Gerenciamento de core e backbone, incluindo configuração de BGP e ferramentas de mitigação de DDoS.
-   • Configuração e manutenção de roteadores de borda e BNG das marcas Nokia, Juniper e Huawei.
-   • Configuração e ajustes de switches avançados, como:
-    - Huawei: S6720, S6730
-    - Datacom: DM2104, DM4370
-    - Cisco: ME3600X
+   - Gerenciamento de core e backbone, incluindo configuração de BGP e ferramentas de mitigação de DDoS.
+   - Configuração e manutenção de roteadores de borda e BNG das marcas Nokia, Juniper e Huawei.
+ • Configuração e ajustes de switches avançados, como:
+   - Huawei: S6720, S6730
+   - Datacom: DM2104, DM4370
+   - Cisco: ME3600X
     
 • Configuração e gerenciamento de roteadores e rádios Mikrotik, Ubiquiti e Mimosa.
 • Implantação e configuração de OLTs (Fiberhome, Huawei, Nokia) e ONUs (Zyxel, Fiberhome, Huawei, Nokia).
@@ -28,14 +28,15 @@
    - Suporte e resolução de incidentes de rede, escalando demandas ao N3 quando necessário.
      
 • Servidores e Virtualização
- • Servidores físicos:
+ - Servidores físicos:
    - Experiência com implementação e manutenção em servidores Dell de diversos modelos.
    - Atuação proativa para configuração, correção e ajustes com foco em desempenho e segurança.
- • Servidores virtuais:
-   - Implantação e manutenção de VMs, incluindo:
-   - Sistemas e serviços: Windows Servers, UNM2000, U2000, DNS.
-   - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude.
-   - Outros: HotSpot Unifi, Zimbra, CDN OTT.
+
+• Servidores virtuais:
+  - Implantação e manutenção de VMs, incluindo:
+  - Sistemas e serviços: Windows Servers, UNM2000, U2000, DNS.
+  - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude.
+  - Outros: HotSpot Unifi, Zimbra, CDN OTT.
      
 • Programação e Automação
  - Linguagens: Lua, JS, Python.
