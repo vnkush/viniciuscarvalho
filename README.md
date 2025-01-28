@@ -32,7 +32,7 @@
    - Experiência com implementação e manutenção em servidores Dell de diversos modelos.
    - Atuação proativa para configuração, correção e ajustes com foco em desempenho e segurança.
 
-• Servidores virtuais:
+- Servidores virtuais:
   - Implantação e manutenção de VMs, incluindo:
   - Sistemas e serviços: Windows Servers, UNM2000, U2000, DNS.
   - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude.
