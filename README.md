@@ -23,7 +23,7 @@
 
 
 
- •0 Protocolos e Tecnologias:
+ - Protocolos e Tecnologias:
    - Protocolos de rede: IP, OSPF, MPLS, MPLS-TE, BGP, xSTP.
    - Suporte e resolução de incidentes de rede, escalando demandas ao N3 quando necessário.
      
