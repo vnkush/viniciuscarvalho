@@ -39,7 +39,6 @@
   - Outros: HotSpot Unifi, Zimbra, CDN OTT.
      
 • Programação e Automação
- - Linguagens: Lua, JS, Python.
  - Foco: Sempre estudando para integrar a força da programação na automação de protocolos e equipamentos de rede.
 
 
