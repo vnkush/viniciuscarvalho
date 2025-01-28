@@ -44,7 +44,7 @@
 
 
 - 💻  Especialista em Redes e Tecnologia
-- 🚀  CTO na [UbiNet](https://ubinet.net.br)
+- 🚀  CTO na [UbiNet - Provedor de Internet](https://ubinet.net.br)
 - 🌍  Cordeiro-RJ, Brazil
 
 
@@ -63,12 +63,12 @@
   <img align="center" alt="sartervitor-MYSQL" title="MySql" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> &nbsp;
   <img align="center" alt="sartervitor-LUA" title=".Lua" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
 </div>
-          
+      
 ### 💭 Social Media:
 
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sartervitor/" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/vn.carvalho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinícius-carvalho2" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
